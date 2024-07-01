@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaydecoder&label=Profile%20views&color=0e75b6&style=flat" alt="abhaydecoder" /> </p>
 
-- 🌱 I’m currently learning **React , Flutter**
+- 🌱 I’m currently learning **React , JavaScript**
 
 - 💬 Ask me about **React , Java ,C++**
 
